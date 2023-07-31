@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.vscode": true,
+        "**/Thumbs.db": false
+    }
+}
